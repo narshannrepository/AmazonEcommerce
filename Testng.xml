@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Ecommerce Test Automation">
+<test name="Amazon Ecommerce Test Cases">
+
+<classes>
+<class name="testLayer.LoginPageTest"></class>
+<class name="testLayer.YourAccountTest"></class>
+<class name="testLayer.YourOrderTest"></class>
+<class name="testLayer.YourAddressTest"></class>
+<class name="testLayer.AddYourPaymentMethodTest"></class>
+<class name="testLayer.LoginSecurityTest"></class>
+<class name="testLayer.SearchFacilityTest"></class>
+<class name="testLayer.ShoppingCartTest"></class>
+<class name="testLayer.SortingProductTest"></class>
+<class name="testLayer.GuestAccountTest"></class>
+
+</classes>
+
+</test>
+
+</suite>

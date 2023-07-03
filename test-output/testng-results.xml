@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-02T23:12:38 EDT" name="Amazon Ecommerce Test Automation" finished-at="2023-07-02T23:16:15 EDT" duration-ms="216791">
+    <groups>
+    </groups>
+    <test started-at="2023-07-02T23:12:38 EDT" name="Amazon Ecommerce Test Cases" finished-at="2023-07-02T23:16:15 EDT" duration-ms="216791">
+      <class name="testLayer.GuestAccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.GuestAccountTest@18078bef]" started-at="2023-07-02T23:15:57 EDT" name="setup" finished-at="2023-07-02T23:16:02 EDT" duration-ms="5679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="User()[pri:1, instance:testLayer.GuestAccountTest@18078bef]" started-at="2023-07-02T23:16:02 EDT" name="User" finished-at="2023-07-02T23:16:15 EDT" duration-ms="12347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.GuestAccountTest@18078bef]" started-at="2023-07-02T23:16:15 EDT" name="close" finished-at="2023-07-02T23:16:15 EDT" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.GuestAccountTest -->
+      <class name="testLayer.SortingProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.SortingProductTest@689604d9]" started-at="2023-07-02T23:15:41 EDT" name="setup" finished-at="2023-07-02T23:15:45 EDT" duration-ms="3738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.SortingProductTest@689604d9]" started-at="2023-07-02T23:15:45 EDT" name="Title" finished-at="2023-07-02T23:15:45 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SortingProductTest@689604d9]" started-at="2023-07-02T23:15:45 EDT" name="close" finished-at="2023-07-02T23:15:45 EDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.SortingProductTest@689604d9]" started-at="2023-07-02T23:15:45 EDT" name="setup" finished-at="2023-07-02T23:15:49 EDT" duration-ms="3690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginmodule()[pri:2, instance:testLayer.SortingProductTest@689604d9]" started-at="2023-07-02T23:15:49 EDT" name="Loginmodule" finished-at="2023-07-02T23:15:56 EDT" duration-ms="7252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginmodule -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SortingProductTest@689604d9]" started-at="2023-07-02T23:15:56 EDT" name="close" finished-at="2023-07-02T23:15:57 EDT" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.SortingProductTest -->
+      <class name="testLayer.YourAddressTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.YourAddressTest@49e53c76]" started-at="2023-07-02T23:14:00 EDT" name="setup" finished-at="2023-07-02T23:14:03 EDT" duration-ms="3666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.YourAddressTest@49e53c76]" started-at="2023-07-02T23:14:03 EDT" name="Title" finished-at="2023-07-02T23:14:03 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.YourAddressTest@49e53c76]" started-at="2023-07-02T23:14:03 EDT" name="close" finished-at="2023-07-02T23:14:05 EDT" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.YourAddressTest@49e53c76]" started-at="2023-07-02T23:14:05 EDT" name="setup" finished-at="2023-07-02T23:14:08 EDT" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="account()[pri:2, instance:testLayer.YourAddressTest@49e53c76]" started-at="2023-07-02T23:14:08 EDT" name="account" finished-at="2023-07-02T23:14:15 EDT" duration-ms="6549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- account -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.YourAddressTest@49e53c76]" started-at="2023-07-02T23:14:15 EDT" name="close" finished-at="2023-07-02T23:14:15 EDT" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.YourAddressTest -->
+      <class name="testLayer.YourAccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.YourAccountTest@409bf450]" started-at="2023-07-02T23:12:57 EDT" name="setup" finished-at="2023-07-02T23:13:09 EDT" duration-ms="11702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.YourAccountTest@409bf450]" started-at="2023-07-02T23:13:09 EDT" name="Title" finished-at="2023-07-02T23:13:09 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.YourAccountTest@409bf450]" started-at="2023-07-02T23:13:09 EDT" name="close" finished-at="2023-07-02T23:13:09 EDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.YourAccountTest@409bf450]" started-at="2023-07-02T23:13:09 EDT" name="setup" finished-at="2023-07-02T23:13:21 EDT" duration-ms="11620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="account()[pri:2, instance:testLayer.YourAccountTest@409bf450]" started-at="2023-07-02T23:13:21 EDT" name="account" finished-at="2023-07-02T23:13:29 EDT" duration-ms="8498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- account -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.YourAccountTest@409bf450]" started-at="2023-07-02T23:13:29 EDT" name="close" finished-at="2023-07-02T23:13:30 EDT" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.YourAccountTest -->
+      <class name="testLayer.AddYourPaymentMethodTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.AddYourPaymentMethodTest@351d00c0]" started-at="2023-07-02T23:14:15 EDT" name="setup" finished-at="2023-07-02T23:14:28 EDT" duration-ms="13030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.AddYourPaymentMethodTest@351d00c0]" started-at="2023-07-02T23:14:28 EDT" name="Title" finished-at="2023-07-02T23:14:28 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.AddYourPaymentMethodTest@351d00c0]" started-at="2023-07-02T23:14:28 EDT" name="close" finished-at="2023-07-02T23:14:28 EDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.AddYourPaymentMethodTest@351d00c0]" started-at="2023-07-02T23:14:28 EDT" name="setup" finished-at="2023-07-02T23:14:41 EDT" duration-ms="12287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="paymentmod()[pri:2, instance:testLayer.AddYourPaymentMethodTest@351d00c0]" started-at="2023-07-02T23:14:41 EDT" name="paymentmod" finished-at="2023-07-02T23:14:53 EDT" duration-ms="12123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentmod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.AddYourPaymentMethodTest@351d00c0]" started-at="2023-07-02T23:14:53 EDT" name="close" finished-at="2023-07-02T23:14:53 EDT" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.AddYourPaymentMethodTest -->
+      <class name="testLayer.YourOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.YourOrderTest@38d8f54a]" started-at="2023-07-02T23:13:30 EDT" name="setup" finished-at="2023-07-02T23:13:42 EDT" duration-ms="11923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.YourOrderTest@38d8f54a]" started-at="2023-07-02T23:13:42 EDT" name="Title" finished-at="2023-07-02T23:13:42 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.YourOrderTest@38d8f54a]" started-at="2023-07-02T23:13:42 EDT" name="close" finished-at="2023-07-02T23:13:42 EDT" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.YourOrderTest@38d8f54a]" started-at="2023-07-02T23:13:42 EDT" name="setup" finished-at="2023-07-02T23:13:53 EDT" duration-ms="11648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="account()[pri:2, instance:testLayer.YourOrderTest@38d8f54a]" started-at="2023-07-02T23:13:53 EDT" name="account" finished-at="2023-07-02T23:13:59 EDT" duration-ms="5938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- account -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.YourOrderTest@38d8f54a]" started-at="2023-07-02T23:13:59 EDT" name="close" finished-at="2023-07-02T23:14:00 EDT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.YourOrderTest -->
+      <class name="testLayer.LoginSecurityTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.LoginSecurityTest@2a3b5b47]" started-at="2023-07-02T23:14:53 EDT" name="setup" finished-at="2023-07-02T23:14:57 EDT" duration-ms="3772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.LoginSecurityTest@2a3b5b47]" started-at="2023-07-02T23:14:57 EDT" name="Title" finished-at="2023-07-02T23:14:57 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginSecurityTest@2a3b5b47]" started-at="2023-07-02T23:14:57 EDT" name="close" finished-at="2023-07-02T23:14:57 EDT" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.LoginSecurityTest@2a3b5b47]" started-at="2023-07-02T23:14:57 EDT" name="setup" finished-at="2023-07-02T23:15:01 EDT" duration-ms="3777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginmodule()[pri:2, instance:testLayer.LoginSecurityTest@2a3b5b47]" started-at="2023-07-02T23:15:01 EDT" name="Loginmodule" finished-at="2023-07-02T23:15:06 EDT" duration-ms="5086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginmodule -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginSecurityTest@2a3b5b47]" started-at="2023-07-02T23:15:06 EDT" name="close" finished-at="2023-07-02T23:15:06 EDT" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginSecurityTest -->
+      <class name="testLayer.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:38 EDT" name="setup" finished-at="2023-07-02T23:12:42 EDT" duration-ms="4263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:42 EDT" name="Title" finished-at="2023-07-02T23:12:42 EDT" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:42 EDT" name="close" finished-at="2023-07-02T23:12:43 EDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:43 EDT" name="setup" finished-at="2023-07-02T23:12:47 EDT" duration-ms="3681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginmodule(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:47 EDT" name="Loginmodule" data-provider="Details" finished-at="2023-07-02T23:12:48 EDT" duration-ms="832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[merchantrachelle@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hplaptop89]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginmodule -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:48 EDT" name="close" finished-at="2023-07-02T23:12:48 EDT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:48 EDT" name="setup" finished-at="2023-07-02T23:12:52 EDT" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginmodule(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:52 EDT" name="Loginmodule" data-provider="Details" finished-at="2023-07-02T23:12:53 EDT" duration-ms="849" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[roiciansqa@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[knowledgeng]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginmodule -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:53 EDT" name="close" finished-at="2023-07-02T23:12:53 EDT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:53 EDT" name="setup" finished-at="2023-07-02T23:12:56 EDT" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginmodule(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:56 EDT" name="Loginmodule" data-provider="Details" finished-at="2023-07-02T23:12:57 EDT" duration-ms="623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[narulashan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hpalptop89]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginmodule -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginPageTest@35cabb2a]" started-at="2023-07-02T23:12:57 EDT" name="close" finished-at="2023-07-02T23:12:57 EDT" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginPageTest -->
+      <class name="testLayer.ShoppingCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.ShoppingCartTest@35d019a3]" started-at="2023-07-02T23:15:28 EDT" name="setup" finished-at="2023-07-02T23:15:31 EDT" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.ShoppingCartTest@35d019a3]" started-at="2023-07-02T23:15:31 EDT" name="Title" finished-at="2023-07-02T23:15:31 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.ShoppingCartTest@35d019a3]" started-at="2023-07-02T23:15:31 EDT" name="close" finished-at="2023-07-02T23:15:31 EDT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.ShoppingCartTest@35d019a3]" started-at="2023-07-02T23:15:31 EDT" name="setup" finished-at="2023-07-02T23:15:36 EDT" duration-ms="4341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginmodule()[pri:2, instance:testLayer.ShoppingCartTest@35d019a3]" started-at="2023-07-02T23:15:36 EDT" name="Loginmodule" finished-at="2023-07-02T23:15:41 EDT" duration-ms="5362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginmodule -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.ShoppingCartTest@35d019a3]" started-at="2023-07-02T23:15:41 EDT" name="close" finished-at="2023-07-02T23:15:41 EDT" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.ShoppingCartTest -->
+      <class name="testLayer.SearchFacilityTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.SearchFacilityTest@55b699ef]" started-at="2023-07-02T23:15:06 EDT" name="setup" finished-at="2023-07-02T23:15:10 EDT" duration-ms="3829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.SearchFacilityTest@55b699ef]" started-at="2023-07-02T23:15:10 EDT" name="Title" finished-at="2023-07-02T23:15:10 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SearchFacilityTest@55b699ef]" started-at="2023-07-02T23:15:10 EDT" name="close" finished-at="2023-07-02T23:15:10 EDT" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testLayer.SearchFacilityTest@55b699ef]" started-at="2023-07-02T23:15:10 EDT" name="setup" finished-at="2023-07-02T23:15:14 EDT" duration-ms="3624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="account()[pri:2, instance:testLayer.SearchFacilityTest@55b699ef]" started-at="2023-07-02T23:15:14 EDT" name="account" finished-at="2023-07-02T23:15:27 EDT" duration-ms="13499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- account -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SearchFacilityTest@55b699ef]" started-at="2023-07-02T23:15:27 EDT" name="close" finished-at="2023-07-02T23:15:28 EDT" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.SearchFacilityTest -->
+    </test> <!-- Amazon Ecommerce Test Cases -->
+  </suite> <!-- Amazon Ecommerce Test Automation -->
+</testng-results>
